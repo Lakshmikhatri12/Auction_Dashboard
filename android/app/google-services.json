@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "334748011560",
+    "project_id": "auctify-86815",
+    "storage_bucket": "auctify-86815.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334748011560:android:28c1762f5195741fac791d",
+        "android_client_info": {
+          "package_name": "com.example.auctify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334748011560-koev3u3hgjl7l2edhsq30ce29144eqvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auctify",
+            "certificate_hash": "01563cb8923aae9d1a666d6b1c5cd58ec938a13d"
+          }
+        },
+        {
+          "client_id": "334748011560-7oh3qttnl699mv3e1ga8m7ro39o3kdsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpPeZII00dQO5Y8LpR2XKsXfoJW65E5qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334748011560-7oh3qttnl699mv3e1ga8m7ro39o3kdsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334748011560:android:975d8e6034a30edfac791d",
+        "android_client_info": {
+          "package_name": "com.example.auctify_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334748011560-7oh3qttnl699mv3e1ga8m7ro39o3kdsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpPeZII00dQO5Y8LpR2XKsXfoJW65E5qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334748011560-7oh3qttnl699mv3e1ga8m7ro39o3kdsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
